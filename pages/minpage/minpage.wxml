@@ -1,0 +1,6 @@
+<!--pages/minpage/minpage.wxml-->
+<text>hello world</text>
+<button size="mini" open-type="getUserInfo" bindgetuserinfo="handleGetUserInfo">
+  获取相关信息
+</button>
+<open-data type="userNickName"></open-data>
